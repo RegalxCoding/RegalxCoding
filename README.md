@@ -25,15 +25,9 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/rushabh-tak-847b49288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://x.com/RushabhOp" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://www.instagram.com/rushabh_0p/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo" />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
 </div>
 
 ###
@@ -70,10 +64,18 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RegalxCoding&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RegalxCoding&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ###
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RegalxCoding/RegalxCoding/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RegalxCoding/RegalxCoding/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RegalxCoding/RegalxCoding/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -82,3 +84,5 @@
 ###
 
 <p align="left">🎧 Listening to music: Always searching for the next great song to fuel my coding sessions.<br><br>🎮 Gaming: A great way to relax and dive into new worlds.<br><br>🏐 Playing volleyball: I love the challenge and teamwork of the game.<br><br>🍿 Watching movies: I'm a big fan of cinema, and The Shawshank Redemption is a timeless favorite.</p>
+
+###
